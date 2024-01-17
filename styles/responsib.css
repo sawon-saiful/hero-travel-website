@@ -1,0 +1,10 @@
+@media screen and (max-width: 576px) {
+    .banner-section img{
+        width: 400px;
+
+    }
+    .banner-text{
+        width: 400px;
+    }
+    
+}
